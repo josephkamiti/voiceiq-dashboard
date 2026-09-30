@@ -1,5 +1,5 @@
 // VoiceIQ settings. When your n8n address changes, edit ONLY the line below.
 // It must start with https:// and end with /webhook
-window.VQ_CONFIG = {
-  webhookBase: 'https://design-checking-tulsa-latex.trycloudflare.com/webhook'
-};
+// VoiceIQ settings. When your n8n address changes, edit ONLY the line below.
+// It must start with https:// and end with /webhook
+window.VQ_CONFIG = { webhookBase: 'https://design-checking-tulsa-latex.trycloudflare.com/webhook' };
