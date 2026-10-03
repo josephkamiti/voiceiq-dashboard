@@ -1,7 +1,7 @@
 // VoiceIQ settings. Edit ONLY these lines, never index.html.
 window.VQ_CONFIG = {
   // 1) Your n8n address. It must start with https:// and end with /webhook. Changes whenever the tunnel changes.
-  webhookBase: 'https://brown-wages-chip-collective.trycloudflare.com/webhook',
+  webhookBase: 'https://refresh-fighting-fees-mirrors.trycloudflare.com/webhook',
 
   // 2) Shown to customers in Terms & Privacy and on receipts (leave '' until you have them;
   //    Settings -> Support is used as the fallback).
